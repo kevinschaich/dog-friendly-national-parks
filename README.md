@@ -6,9 +6,7 @@ An open-source, curated map of dog and pet-friendly National Parks in the U.S. (
 
 [![Dog-Friendly National Parks Map](dog-friendly-national-parks-map.png)](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
-#### Legend
-
-| Color | Icon | Meaning |
+| **Color** | **Icon** | **Meaning** |
 |---|---|---|
 | **Green** | Dog| Pets allowed (almost) everywhere in the park, including multiple trails|
 | **Blue** | Hiker / Trailhead | Pets allowed on one or more trails, check park rules & seaonal restrictions before visiting |
