@@ -1,10 +1,12 @@
 # Dog-Friendly National Parks
 
-An open-source, curated map of furry-friend-friendly national parks in the U.S. (Canada coming soon).
+An open-source, curated map of dog and pet-friendly National Parks in the U.S. (Canada coming soon).
 
-[**Explore on Google Maps**](https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
+[**Explore on Google Maps**](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
 #### Legend
+
+[![Dog-Friendly National Parks Map](dog-friendly-national-parks-map.png)](https://www.google.com/maps/d/u/0/viewer?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
 | Color | Icon | Meaning |
 |---|---|---|
@@ -12,8 +14,6 @@ An open-source, curated map of furry-friend-friendly national parks in the U.S. 
 | Blue | Hiker / Trailhead | Pets allowed on one or more trails, check park rules & seaonal restrictions before visiting |
 | Yellow | Car | Pets only allowed where cars can go, such as paved roads & campgrounds |
 | Red | Park Ranger | Pets not allowed 😔 |
-
-[![Dog-Friendly National Parks Map](dog-friendly-national-parks-map.png)](https://www.google.com/maps/d/u/0/edit?hl=en&hl=en&mid=1VlDRkZvlXqDfDejOaqFZlnG_fvM5rcxw)
 
 > **Note:** Before visiting any park and to get the most up-to-date pet rules and regulations, please visit the [**National Park Service**](https://www.nps.gov/learnandexplore/index.htm) website.
 
