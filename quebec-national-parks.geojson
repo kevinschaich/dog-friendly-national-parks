@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "Quebec National Parks",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Parc national de la Gaspésie" }, "geometry": { "type": "Point", "coordinates": [ -66.122427, 48.94742 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Bic" }, "geometry": { "type": "Point", "coordinates": [ -68.804928, 48.354777 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Lac-Témiscouata" }, "geometry": { "type": "Point", "coordinates": [ -68.847912, 47.696885 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national de Frontenac" }, "geometry": { "type": "Point", "coordinates": [ -71.162734, 45.840455 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Mont-Mégantic" }, "geometry": { "type": "Point", "coordinates": [ -71.125942, 45.423286 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Mont-Orford" }, "geometry": { "type": "Point", "coordinates": [ -72.188163, 45.322775 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national de la Yamaska" }, "geometry": { "type": "Point", "coordinates": [ -72.616038, 45.428217 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national des Îles-de-Boucherville" }, "geometry": { "type": "Point", "coordinates": [ -73.468531, 45.598685 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national d'Oka" }, "geometry": { "type": "Point", "coordinates": [ -74.060484, 45.473934 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national de Plaisance" }, "geometry": { "type": "Point", "coordinates": [ -75.108567, 45.598935 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Mont-Tremblant" }, "geometry": { "type": "Point", "coordinates": [ -74.510098, 46.261171 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national de la Jacques-Cartier" }, "geometry": { "type": "Point", "coordinates": [ -71.369592, 47.175448 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national des Grands-Jardins" }, "geometry": { "type": "Point", "coordinates": [ -70.219168, 47.690327 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national des Hautes-Gorges-de-la-Rivière-Malbaie" }, "geometry": { "type": "Point", "coordinates": [ -70.429495, 47.854526 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national du Fjord-du-Saguenay" }, "geometry": { "type": "Point", "coordinates": [ -70.335311, 48.300742 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national de la Pointe-Taillon" }, "geometry": { "type": "Point", "coordinates": [ -71.873139, 48.678028 ] } },
+{ "type": "Feature", "properties": { "Name": "Parc national d'Aiguebelle" }, "geometry": { "type": "Point", "coordinates": [ -78.748975, 48.510445 ] } }
+]
+}

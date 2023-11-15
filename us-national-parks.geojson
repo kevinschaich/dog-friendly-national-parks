@@ -1,0 +1,675 @@
+{
+    "type": "FeatureCollection",
+    "name": "national-parks",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Acadia National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "The First National Park East of the Mississippi River People have been drawn to the rugged coast of Maine throughout history. Awed by its beauty and diversity, early 20th-century visionaries donated the land that became Acadia National Park. The park is home to many plants and animals, and the tallest mountain on the U.S. Atlantic coast. Today visitors come to Acadia to hike granite peaks, bike historic carriage roads, or relax and enjoy the scenery.",
+                "website": "http://www.nps.gov/acad/",
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-68.245804, 44.408347, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Arches National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Arches National Park preserves over 2,000 natural sandstone arches, like the world-famous Delicate Arch, as well as many other unusual rock formations. In some areas, the forces of nature have exposed millions of years of geologic history. The extraordinary features of the park create a landscape of contrasting colors, landforms and textures that is unlike any other in the world. ",
+                "website": "http://www.nps.gov/arch/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uH8-QkhyOVz6Ex5P-10_1RfkPa321P90PjFeXTMejIHL3i4tKWjrzpHbBkxXcf1s9h0M4Cnf90BZIZwRQUuOfmUEixAiAXWDa300Qz91brp4_md8v2BotGHWC3OvstdVjCpp87zZdU9ORQTT-RgWymgEoLAYVbkhQWMnhImUHgzerks5uX9_4rjsVT-gK5GBD1pg-fs1me5GcCPFAx90Q1uEs54jCr8zxis2Sh0YmqiyfdL7NosuiJbPkd9FNb7Lt1043jhUmTvp7QkvdNGmYVd_Q"
+            },
+            "geometry": {"type": "Point", "coordinates": [-109.619704, 38.616108, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Badlands National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Containing the world’s richest Oligocene epoch fossil beds, dating 37-28 million years old, the evolutionary stories of mammals such as the horse and rhinoceros arise from the 244,000 acres of sharply eroded buttes, pinnacles, and spires. Bison, bighorn sheep, endangered black-footed ferrets, and swift fox roam one of the largest, protected mixed-grass prairies in the United States. ",
+                "website": "http://www.nps.gov/badl/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uG5xydFjlSH_bTqjJAQ2MZRlyo_Fb2S3TuJ3s0A4VBL3iiFbLX65CpomiMGPeobpk42BLeiacmOsr9pBmcidTfiphVs0gzievXGIBxjMPHMsRE_Vj94qmFwCQsj_z448uQt3tEr_piTrb5S_xOVI_nYIQlW67OzbquZFJ3dVtMNZfmAWpAwuVaIalrAmCfcgqsLg7Og92BOQd_G86_LTYEINIWc9m56TQacwIHD7pFQxsmWhB2GXXcldwuyc4L4iMW29BpFdUlKdApRCqYhEFovOuYXt-v7Aw"
+            },
+            "geometry": {"type": "Point", "coordinates": [-101.942418, 43.749056, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Big Bend National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "\"A land of strong beauty— often savage and always imposing.\"Sometimes considered \"three parks in one,\" Big Bend includes mountain, desert, and river environments. An hour’s drive can take you from the banks of the Rio Grande to a mountain basin nearly a mile high. Here, you can explore one of the last remaining wild corners of the United States, and experience unmatched sights, sounds, and solitude. ",
+                "website": "http://www.nps.gov/bibe/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHcEPl_TiW61rUabPtXv62JjtqvlJ33ZE8XOCdnXHZz1MpmihUefH6dd0MEQ0_xI8DsW_yIEwJAC5mp9e-wOXK7_VMSzEvB7U--XNn8YJ8sK63yn7KpZKXzfLN3IDmBlHDB5DpuAOPXg9Q03vsEG6HmvauVj3CnPOZ34syCiGU4L1qUMYSnLLokQqq6b781wLezhpJjBEnUPfryoWHaGONcpyvAhYJ0NmT2l9vDV33x6ybb8O6Nc8IUZVLhye_7Ni-wFSzBjLNGJUTzeM4YeA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-103.207347, 29.32212, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Biscayne National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "A Watery Wonderland Within sight of downtown Miami, yet worlds away, Biscayne protects a rare combination of aquamarine waters, emerald islands, and fish-bejeweled coral reefs. Here too is evidence of 10,000 years of human history, from pirates and shipwrecks to pineapple farmers and presidents. Outdoors enthusiasts can boat, snorkel, camp, watch wildlife…or simply relax in a rocking chair gazing out over the bay.",
+                "website": "http://www.nps.gov/bisc/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHnw96L0UxbfuFD_yj8QxZu8NngDNt4i350QDrv4V-gGeduAF6NRM5_J0gRf3DqoEFweDMblI9WopUebYqRCMlV4UFTyxTTXbSlB5u6NmCJikx_cV742lKGZk59n9EhptuqH5dyeTy0Ggq_DOSiXMqI8f6l1se9MvfwLo1Lej5dddzY2kvfFsj4INBHfTeug5BaFauRffZ5ToNLwqiHDfTT52O_OU6GF1GDk5x1Dqmhg_1TReJTppOXGGQkcWAUJ7BXFTogH24lpMBqKPRSndLehZeLOURtSStr-KxSUsW8T8sVdmw"
+            },
+            "geometry": {"type": "Point", "coordinates": [-80.334692, 25.463347, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Black Canyon of the Gunnison National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Welcome to Black CanyonThe Black Canyon of the Gunnison's unique and spectacular landscape was formed slowly by the action of water and rock scouring down through hard Proterozoic crystalline rock.No other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.No other canyon in North America combines the narrow opening, sheer walls, and startling depths offered by the Black Canyon of the Gunnison.",
+                "website": "http://www.nps.gov/blca/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFybKEAU5BHHG6FOCmMrwc6CCintiVzM3Tl-Dm_7g01Ps0PfCs3E2JtxSu8_uV3O3pqgV0RrWTOCXjtMmckPyN4Uaxtcf76BpWx9q2Labqvt2fKTwItVrAbZJTsdwM-9O2S8lz63CyK23nmuE-gSUlMNYpvaJa-GAH61z7ixFIO9mjccLxLAf__K-8G6_8bbpQLFsT6HfgvR6imizFD_-cJ9T95gY_i457aM5CbUkjST7UQZ-RKeRioggXH6hiehftXx_NTXP5fIe0wc8Kv02A97d3W5tY"
+            },
+            "geometry": {"type": "Point", "coordinates": [-107.686186, 38.554786, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Bryce Canyon National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Hoodoos - grotesque, eerie and often whimsical...are on display here, along with ancient trees and scenic views from the rim.Famous for its unique geology of red rock spires and horseshoe-shaped amphitheaters, Bryce offers the visitor a \"Far View\" from the eastern edge of the Paunsaugunt Plateau in southern Utah.",
+                "website": "http://www.nps.gov/brca/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uG-5Cj3JQzviu7Vh9rw0HzkzNLW62sd9Ea81HEzZ8iJJyLhWzanHBkq4RV3AT1hGsPoZbuE8U0xBrOWgZJNxVNmGDEY3dZ9aDcJfK2nlAXprLCH7l3JtUFtDM5U2yBbFy1AsjUQnln4Wg-QnZi2KBrSZJvl2fpxlqxR5BwbCxGxCy7H5PfIsQbInbO6iPVyqInc-HXEFzJqyur_hB_EvTLQKz1-0O-hkLc0Zf0R9wvKOHMepTtXe6fpYHqQJiID-xdIMllhKwQkuG4z8H7JMINKOT-iD5s"
+            },
+            "geometry": {"type": "Point", "coordinates": [-112.16912, 37.64021, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Canyonlands National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Canyonlands preserves a colorful landscape eroded into countless canyons, mesas and buttes by the Colorado River and its tributaries. The rivers divide the park into four districts: the Island in the Sky, the Needles, the Maze and the rivers themselves. While these areas share a primitive desert atmosphere, each retains its own character and offers different opportunities for exploration.",
+                "website": "http://www.nps.gov/cany/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGq4ikWgOQGF9J0HV8-juWRBrBlRQTbh-PRzd7Jlrt08tBeOiX0-eY6kWkEAGhLCkRUKbg9MCaj2IOlsLAc9Id3ICUsxK0NCsJZTvpxNDILltpoOvtEtwySvH9KFTL8lhJLX0aVDqNB_7_py7o1tT1CTpWguukexDAPAUtgdnKFzylLASU2mqlByz_7FFL93DVjU_uMqwtKPS7v5Bo28ESRFu6pOuN28m3FJvVfHAEWrbDzbf3fy6V0WA_21fYkSullZUx7bv5DJQN87-PpqRRK4ZcV_NEPzhFRztQ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-109.862766, 38.353133, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Capitol Reef National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "The Waterpocket Fold, a 100-mile long wrinkle in the earth's crust known as a monocline, extends from nearby Thousand Lakes Mountain to the Colorado River (now Lake Powell). Capitol Reef National Park was established to protect this grand and colorful geologic feature, as well as the unique natural and cultural history found in the area. ",
+                "website": "http://www.nps.gov/care/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFdahxvNdc1qxs7Dxj52HWsqw2FyETdl0pXSDV-fSaCVWq6NXSIBCj41EkgILM7A6PqULTtnkCGScZc8TsoHtzC-PvykAgaA4oVi-C8tznsCkgxAQMpdBVwLXZN3pBUkyoyPUN9poP6nmKPuaxG_ICfHIjnfk907A2QRY56hYw8shAEuufdPCmbZ1CvHL9tmTBUpFGctzOPDpY-4Zal_Y7ofNsoaWcl7br7DacBmSzrNvOnokbghxYB8XnpC0IugjLmMCPcuEZQcWY9A88TaqnxmBNl8wA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-111.26141, 38.29125, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Carlsbad Caverns National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "As you pass through the Chihuahuan Desert and Guadalupe Mountains of southeastern New Mexico and west Texas—filled with prickly pear, chollas, sotols and agaves—you might never guess there are more than 300 known caves beneath the surface. The park contains 113 of these caves, formed when sulfuric acid dissolved the surrounding limestone, creating some of the largest caves in North America.",
+                "website": "http://www.nps.gov/cave/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGTv6pCrgqABxSewhGoEorqELC39E3kzthhx3cDZMRidYYJuZyKhmO9aWu40YOf3V8OAhC8FW0N4Mcr3oef7sI-88ZblVyYsBs_lglFISUGihlWS554_sFB4lkFxVoa-1vrh0ZDuNHso5tIB_vGCQXyZY9so6r6_ZjS5mRti0nY94whZQVUo9tFKO8yI0pdl0Zb0Elba_rkzGuaNlr8_dTnVy1naJaZ7ANPb9a00NNY65yuDMkfGWrumK5rXHDBUroUzGBxo_-IEsfzrHyRFzkhtkAoHBP2"
+            },
+            "geometry": {"type": "Point", "coordinates": [-104.444114, 32.174959, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Channel Islands National Park",
+                "dog_friendliness": "Pets not allowed",
+                "description": "Close to the California mainland, yet worlds apart, Channel Islands National Park encompasses five remarkable islands (Anacapa, Santa Cruz, Santa Rosa, San Miguel, and Santa Barbara) and their ocean environment, preserving and protecting a wealth of natural and cultural resources. Isolation over thousands of years has created unique animals, plants, and archeological resources found nowhere else on Earth and helped preserve a place where visitors can experience coastal southern California as it once was.",
+                "website": "http://www.nps.gov/chis/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGXdPVjRHqVUWyFyuCIsa8yONlEtxEVXCOlpmODSiX0A1Ru37jZoWWhA2XQnbfo-1BIEolgFttAJ0gJDWX7g-b1b_xNc3QG0tE3gaznFhwTdWoVmy4cFCe32a1vcdWdiECRg4Ty7XguQVjDVwUUf4YFETwTY3bF71-VfEShzg4LAUW0lNDkPvJIMERfmhBPXT-gk0913hxRfHde8zUGolAJgG-RYXUiK1tiFQIL4ZK1LXutyWAsSkzhOmfA9bq36amQMlnOUCfRJzGADHGnCpvexC_-N9hy"
+            },
+            "geometry": {"type": "Point", "coordinates": [-119.578972, 34.021364, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Congaree National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Home of Champions! Welcome to the largest remnant of old-growth floodplain forest remaining on the continent! Experience national and state champion trees, towering to record size amidst astonishing biodiversity. Walk, paddle or just relax within this dynamic floodplain ecosystem. Beauty and tranquility reign supreme in the midst of this natural treasure.",
+                "website": "http://www.nps.gov/cosw/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHfw75CBvSiUsU6-fQQN_Anj94uLtlosBFBV99FfoM1u9yrsbeH5xALYzi-sec3dTKrlU9RKrguUURoKjRR0pYs5uJyha6mzno7bPJkCw1ZNScmo4Zw1-GzPVDy7WBhm1zMl0AEHJsNqM0r-A54p-aCka-M0anGvDzH_20ZHk6bUizZ5z1O4Qk3OktUa1X2A3QWOwc7vD7oVV-h9bgbcP7quvBNN_Lv0F3labqVdb_ptTQCedHgLIZ2Q9wp6gChFS8hPR5l4yygUCYa3EIR"
+            },
+            "geometry": {"type": "Point", "coordinates": [-80.824056, 33.830355, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Crater Lake National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Crater Lake has inspired people for hundreds of years. No place else on earth combines a deep, pure lake, so blue in color; sheer surrounding cliffs, almost two thousand feet high; two picturesque islands; and a violent volcanic past. It is a place of immeasurable beauty, and an outstanding outdoor laboratory and classroom.Crater Lake is located in Southern Oregon on the crest of the Cascade Mountain range, 100 miles (160 km) east of the Pacific Ocean. It lies inside a caldera, or volcanic basin, created when the 12,000 foot (3,660 meter) high Mount Mazama collapsed 7,700 years ago following a large eruption.Generous amounts of winter snow, averaging 533 inches (1,354 cm) per year, supply the lake with water. There are no inlets or outlets to the lake. Crater Lake, at 1,943 feet (592 meters) deep, is the seventh deepest lake in the world and the deepest in the United States. Evaporation and seepage prevent the lake from becoming any deeper.",
+                "website": "http://www.nps.gov/crla/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFvHF5eNlg-Hg33SIYv9VyXcfZ6Ek7iOx8n7Ox1rJMaC5UgqmwDwSob2kDDYYN9uerOjxMgREPY2Egp_6Hwqco2_MCdCnAd90tx4NIqb2UPq8hGVAQL5J6Y-gJ3I6WdZ32L13cbYOyjmrjivkr3aFd_OEMfYtwP047iO6a2VCZlt2SNKtJdTEp7F8S9UvPkHHD0xsDNCNm1jKMfQ8-sNAtPQ267x56kCrako4KpvmemjxJaj6XCEw5YGttWoA9rPOeG3HsWBxbOzXexCI3mLgjCoSuK2Q"
+            },
+            "geometry": {"type": "Point", "coordinates": [-122.133915, 42.896419, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Cuyahoga Valley National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Along the \"Crooked River\"Though a short distance from the urban environments of Cleveland and Akron, Cuyahoga Valley National Park seems worlds away. The winding Cuyahoga—the \"crooked river\" as named by American Indians—gives way to deep forests, rolling hills, and open farmlands. The park is a refuge for flora and fauna, gives a sense of times past, and provides recreation and solitude for Ohio's residents and visitors. ",
+                "website": "http://www.nps.gov/cuva/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uF8lzruPTwr2eUbDLUgmjrs4lYZcWx5x_7oHoehj-TYkZilqVtz3oxnRusdElPSf46vfl6454dIwjjmQScAEDRWFle_lW-SByu9tQWF7omvU6SpK4SLhTIMDjCc5htUQ4FDnbbvI-j-1nCihvASE7QLDqu-UQeviqW0vHfPEUEJ8mahBsidep3rM07Eo4y00qpcEevYf2-pQHdEZR_wDJjiH3wzFkmFI-VrrWJvmzEOLEG6KGsQBB2Pk3mfwmY8MRo9uc6xArzvd2bKJJB3x8Viq8Kg_YQaJqHVJZVvQSUFsmoTgiUZ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-81.558809, 41.262888, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Death Valley National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Death Valley National Park: A Land of ExtremesHottest, Driest, Lowest: A superlative desert of streaming sand dunes, snow-capped mountains, multicolored rock layers, water-fluted canyons and three million acres of stone wilderness. Home to the Timbisha Shoshone and to plants and animals unique to the harshest deserts. A place of legend and a place of trial.",
+                "website": "http://www.nps.gov/deva/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHXe2R79U-WrAKvx75lzF_y-jMO5PCq0RzicwndOuj-zD4UUm-nwrheRrxP5BQBDdJo9sVPT021VoZmFDgaV8DPoM5vVl88DFiGHyiqz66QT7SftbpjSLHgNau46YtX6lILmlfUfMjaCGkQFsOL5t6obErQwphegEZBkFBb64MBle2g11CYsvxSDB3gpVWIcEq-qymoeN02i66rpxmAG8DnTThyRlrob8V2AZErdDzIBJR_Kca_PkUWN7FkpLfUFUAlxHb9TRwJg9OSV8axW9L5YQ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-116.86581, 36.46083, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Denali National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Denali’s dynamic glaciated landscape supports a diversity of wildlife with grizzly bears, caribou, wolves, Dall sheep and moose. Summer slopes are graced with birds and wildflowers. Visitors enjoy sightseeing, backpacking, mountaineering, and research opportunities. Whether climbing or admiring, the crowning jewel of North America’s highest peak is the awe inspiring 20,320 foot Mount McKinley.",
+                "website": "http://www.nps.gov/dena/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEst052FPlHJuZ49g-wBU_ECt10QyvXzhLtv7VdeEUH02XaUZqA2QLsaL8cQcfJRuyJ3Z23ZTvxwEfC7AZTvAxtjnDYcJKK5yI0sc_ZhyQDHttuFgxd35cXmmvYhfz6xvYj7XA1_Rqe8dPi7NZtMqwpH-OY2lNcdfpwg46r7lcmR974DWr4gbkFS7G3ICR1a1jZd91_HVYxRr6R5YU2pYCxJ5WGcpjtQSq4FBoF0PnuTznuWP1G5ek30z--MS1AJP7qWL3GqIh7ld2QOOpxP9sRQA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-148.914528, 63.730338, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Dry Tortugas National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Guardian of the GulfAlmost 70 miles (112.9 km) west of Key West lies a cluster of seven islands, composed of coral reefs and sand, called the Dry Tortugas. Along with the surrounding shoals and waters, they make up Dry Tortugas National Park. The area is known for its famous bird and marine life, its legends of pirates and sunken gold, and its military past.",
+                "website": "http://www.nps.gov/drto/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGebkCttTZePxhFNOMfhkMo_RB5wxbBrn9ZVX7G_JXJGrdLudSE7gxRZoHxucgcGc5uZdZ8c2teihclcFltTxyHNc_rua0ryR3Ot5IUFUwZH1iNyuqBUSTVjeq1c1C5JjflPwyIi4t2r-rl6-YiWNS2PJHSVFtG0saRlX-VykBRCgH_u1TF_-rd9NCRNXxt6cTtL0MpcHRBicZp6CPOUkq1ZfMYzgUWS_002KEgpp6a5ez54qAa3EnNWRA4UlgnNZApzvBqv1tPzzQiJCaJRZtMwbSNfM49U8bb"
+            },
+            "geometry": {"type": "Point", "coordinates": [-82.872705, 24.626733, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Everglades National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "There is only one Everglades in the World.Everglades National Park is the largest subtropical wilderness in the United States. The area boasts rare and endangered species, such as the American crocodile, Florida panther, and West Indian manatee. It has been designated an International Biosphere Reserve, a World Heritage Site, and a Wetland of International Importance, in recognition of its significance to all the people of the world.",
+                "website": "http://www.nps.gov/ever/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHw6GxHJmgkZvbubVdzLchzZAANzFhaEvDHUJM7WDJsLjuSYDt2GOiip1oVmTfrovaomNFNTYIcmPJkqv42NL5lsgB5IC8Ua-s29eZ9aCctUCY95AiEFEPyUvpOmeQMknHLB0PpC14Ehfk-rhZ1dmfghmhHHbk9GlYYHv9HeeV8nDZFyS2X2HK18U3HOCdDRXh_kinoxmFB6fPIzq143iyUi5COdVMREgyyBOpX1fJ5ut1J8ffcUxEAmS5FB5QPjIEtOf1IWJRxq7YWCnctO0NRBzvTFleY"
+            },
+            "geometry": {"type": "Point", "coordinates": [-80.928211, 25.13938, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gates of the Arctic National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Wilderness AdventureThe floatplane disappears, leaving you on the lakeshore. For the next two weeks you must survive using the knowledge, skills and gear you bring with you. Traveling through this vast wilderness you will discover craggy ridges, glacier carved valleys and fragile flowers. You will walk or float through intact ecosystems where people have lived with the land for thousands of years. You will experience solitude, self reliance and nature on its own terms. Are you prepared?",
+                "website": "http://www.nps.gov/gaar/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEXkZOsrWYeLDjTJvzyid4A4lIZZhZUhc5xyNjMcFBC77k1x5SOFj0_zcwGkkaJgPXyBc1Muv3nmyLqp8m06Lqgs_kzYsnFxF9lNOpAnK6UHqdBcfV1RjibtG1PM95w5c6P-FR5_ZXTT7fgzbQofJ26fFUbLKr91CyfI1LI_yi5iYejU6AFXP6jXl441hJ_MsN2MITkm7pb0NS0I437Mq7KvQQVx3FS3OsVXTRhs_7A2E3kjefvnxQ_7cH6V4jWGLdUpv2aPZb2gak"
+            },
+            "geometry": {"type": "Point", "coordinates": [-153.26412, 67.565946, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Gateway Arch National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": null,
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-90.186786, 38.625063, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Glacier National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Welcome to Glacier National ParkCome and experience Glacier's pristine forests, alpine meadows, rugged mountains, and spectacular lakes. With over 700 miles of trails, Glacier is a hiker's paradise for adventurous visitors seeking wilderness and solitude. Relive the days of old through historic chalets, lodges, transportation, and stories of Native Americans. Explore Glacier National Park and discover what awaits you.",
+                "website": "http://www.nps.gov/glac/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHrSvvpRBQ6V1fFYaPssk7d5uHHu7WdWh0kxWMEzxjzvrPECs51ehsXxmqmJ2s4HXCMb3nS6BIdFK3y51SPtRn-6Ajle3_5GiwJFIvRBUmCjt3Z8ZmJC9WIuH532-N6zULrjItRIfDLSKfVYcNSAbDIez5B6LQ0VKC4ArR_889GyJa_NXDIU6igzSmqBYAQZteHJaUjSP7pXw8HV2aT3RDR094nFl94eiiSI8PGnfT7Unv7OXKceHYNwnhLWSEuSiP3YSRyRFpK0XrkfZU7rrmgNt9YQxuKwVIJ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-113.995085, 48.52769, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Glacier Bay National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "The marine wilderness of Glacier Bay National Park and Preserve includes tidewater glaciers, snow-capped mountain ranges, ocean coastlines, deep fjords, and freshwater rivers and lakes. This diverse land and seascape hosts a mosaic of plant communities and a variety of marine and terrestrial wildlife and presents many opportunities for adventuring (",
+                "website": "http://www.nps.gov/glba/planyourvisit/index.htm)and learning (http://www.nps.gov/glba/naturescience/index.htm) about this unique and powerful place.http://www.nps.gov/glba/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEAd42AeERwAZCMIpV-wPhmW8nRixpSg8gO49xfDxv8gi1zt6-LzwjTC9QT_SToqGI5prfTI5Uk0IQiV4YQ54p4fMnLeMmOi2HsEKYd89J5b_q72XAz50ClSxPQzPv_Mud3KdTg-IjPUOrlT0iyh8ljRuZ_DAUlVXkFzjl0AGEh4NHXRq4B4plSaBsZvWHOHhV0Ehjbmjqey9hiUKeYvAwOb_3jMvhO1wbmwyUK-ugVPi_FSSGT6aUVpbyrr5bxFAA1xcZtbOrbjC3N78We_DDMO0IKEuPBlELRc55YLh7DD6jPNuP_ZlI"
+            },
+            "geometry": {"type": "Point", "coordinates": [-135.861568, 58.446745, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grand Canyon National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "A powerful and inspiring landscape, the Grand Canyon overwhelms our senses through its immense size; 277 river miles (446km) long, up to 18 miles (29km) wide, and a mile (1.6km) deep.",
+                "website": "http://www.nps.gov/grca/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGxEDuTLA69WlMB84BgC-4btkmC6umaODd6031jnzpZC6Lxp3G_PAbY9njUy99_bg47XEdIrnZpsWO_jWnPRKX8i31t1AnS6KbsiCJq_Lgw_C6IO24mNs6FyTw8XCVb39eER5BjNfqdAXmmPHAq9jmUA6mf-2pMDprBXYQ7BDABKB-vhN2cXWHvYyTt0nNi7MWiEJG7YwijOyvMu7bxS3zc34Wi2hkFhCf9j-no83ObeqNdl_0EKWy-sPSJslroKT1ucmBtALL-"
+            },
+            "geometry": {"type": "Point", "coordinates": [-112.136378, 36.056964, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Grand Teton National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Located in northwestern Wyoming, Grand Teton National Park preserves a spectacular landscape rich with majestic mountains, pristine lakes and extraordinary wildlife. The abrupt vertical rise of the jagged Teton Range contrasts with the horizontal sage-covered valley and glacial lakes at their base, creating world-renowned scenery that attracts nearly four million visitors per year.  ",
+                "website": "http://www.nps.gov/grte/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHRNs4MlrK6PFvIRuHRiNBvJlPZKVAJnUzAKWRJ2KLhQgdrVOCOa75_8ccR34iZ6dM4Pj_SbVrHa6aiyF2u5Wd80IlJ-AcGefU13Ycs2fA7AM3lykWBeS8kHgl7C0ByBpdoNhRqTh7mK1ZBV8XjCJqXBrrKMNRh8WgF5__waEgypLvm2_hdsPJKfXdoNE50FX0UTsRygQ9lNfW6T2FLxNeaXO00SPGg0Qv2-oo4MaTMhMeKgtaP_Lj3aPDMjTcTcA8PvmVKoXXeCwwEPxdSrqc"
+            },
+            "geometry": {"type": "Point", "coordinates": [-110.716846, 43.657269, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Great Basin National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "In the shadow of 13,063-foot Wheeler Peak, 5,000 year old bristlecone pine trees grow on rocky glacial moraines. Come to Great Basin National Park to experience the solitude of the desert, the smell of sagebrush after a thunderstorm, the darkest of night skies, and the beauty of Lehman Caves. Far from a wasteland, the Great Basin is a diverse region that awaits your discovery.",
+                "website": "http://www.nps.gov/grba/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uG3CVZ1md0yHy0YZqPnd6px9KbhS5luNHPKor6wNgJ0n7rH4MGToxlbQyanOqXCza9watW20xdOUI5k08i4On7e_V64a-mN4BBj4Hw_z3JEAIVxxbClJom4QZ8IxWYjrukra-2E3zA_tAMZ5tKGeso6IttLaF1U7GFbgSNKA-VDadYa_l9zQ8d_bpnic93M9OiZmaYR-QjKSZPdIWw6QgRiKHxbye9pgUyVKbkNOqzvyjYPzv15QC127W3MMk8R5AVOd64cgwMcXIMqbNyrKTJoo3m_COtHFi0CKsA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-114.219543, 39.005579, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Great Sand Dunes National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Alpine tundra, forests, massive dunes, grasslands, and wetlands are all protected as elements of the Great Sand Dunes natural system.",
+                "website": "http://www.nps.gov/grsa/",
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-105.511923, 37.732609, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Great Smoky Mountains National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "A Wondrous Diversity of Life Ridge upon ridge of forest straddles the border between North Carolina and Tennessee in Great Smoky Mountains National Park. World renowned for its diversity of plant and animal life, the beauty of its ancient mountains, and the quality of its remnants of Southern Appalachian mountain culture, this is America’s most visited national park.",
+                "website": "http://www.nps.gov/grsm/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGjLw2Nvc-p-J7mfKwO7ha8k_34zcxT5eJWgxLO2eNE94rhqOWN1oB5htx7McZs9Ij6ODjgmb0pFc-kbrz__aaP8ZJXIBdpeB9A0U-_knOCrLizL_CMi-My8SDtHOHsHdFN5rpeBF-AHfN29FCb9xkIsH6l3-bINtRDmzJbEc6gT5EZ6P6sSbIPu8ES4LMCif2T7kfHu1we0gzhwtY_Pkg4e69x2ydt7mqk0PaKh33i14_22CycBgjt48D46_Vpcz7DbX-pyVeJv5ML6hg92vU8EeUZyAOxFTv58eu3YA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-83.305378, 35.515391, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Guadalupe Mountains National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Welcome to Guadalupe Mountains National ParkGuadalupe Mountains National Park safeguards the world's finest example of a fossilized reef, a surprisingly complex and unique assemblage of flora and fauna, and West Texas' only legally designated wilderness. Here, one can experience solitude, tranquility, and the joy of finding plants and animals whose mastery of survival renews our sense of wonder.",
+                "website": "http://www.nps.gov/gumo/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEfQRSZQLbw-tHIsFYd2sVD0Pz9mwFTRkFHe0tmzZDqHJzFJ6Zwa-bBMdQcT2bRPywRUtPq1a4obmLWwXDtjIMguDSsInEv8Gn7q4sMLQbGu02XmHTUwZzOCo9EFsohvzXub3uNOGQNL2fDuXZeHwqEsYiIg1KucY2yf1S4WpnrpTQTvs2R2_2xrKunkkIxh9xXpENFQSBYGmR_f3l5luqcubgm0xjh648-PciTUXkhfHRJW72ArUf0k45KAmPkil4Ri4DwHpa_j1nU9HHaNqT6-w"
+            },
+            "geometry": {"type": "Point", "coordinates": [-104.853516, 31.933517, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Haleakala National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Haleakala National ParkThis special place vibrates with stories of ancient and modern Hawaiian culture and protects the bond between the land and its people. The park also cares for endangered species some of which exist nowhere else. Come visit this special place - renew your spirit of adventure amid stark volcanic landscapes, sub-tropical rain forest and the unforgettable experience of hiking the backcountry.",
+                "website": "http://www.nps.gov/hale/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEUcMIo8mUFvrGRvAG0TAI3s3tvxVaOwyFoWDfCogaVOIu6XT8aBOsNBMzwASu9srkc5DCzTOobNMQUDvquL7uQ6S_qIn9dOB0BC6R-EARt2qKufp7_U6VSoM05MjpSakQ39l7sekdnlWt2ICnT4E8LnNh04piX8aZSM9NjPXgdRSLAQI-gPWt2Cf41MpPA8WwlmfTPq8727500txzDUEiG6E4JwVNYleRbSWQyX01TGFedf77ODJHmlf-etcQJXRQBBk--ZI5PPczGbZe5McOvaEUYMvjo_8U_uo8"
+            },
+            "geometry": {"type": "Point", "coordinates": [-156.246642, 20.759383, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hawaii Volcanoes National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Hawai‘i Volcanoes National ParkHawai‘i Volcanoes National Park displays the results of 70 million years of volcanism, migration, and evolution -- processes that thrust a bare land from the sea and clothed it with unique ecosystems, and a distinct human culture. The park highlights two of the world's most active volcanoes, and offers insights on the birth of the Hawaiian Islands and views of dramatic volcanic landscapes.",
+                "website": "http://www.nps.gov/havo/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGPpQdMmuHwnIzFxyIHqfUP21vFPmsdl7Mk9NNw_AxAysilPg339-IJrOyQGzW7EG17i73nSnZ6m_hP4CDDEfCWSmnp-aX192Fi6q-Hz4HLla3tGOWHLcECrgq7TPW9hq1TbeHHa3RZHEaPdhMPShsoFZUEy12Scop_ZoRzm5u1SKdLouszVq_eTts_alLMRg2fvWRIejQG3auL8KrUWTLM10B7ByLmrfaCNFKBu1gmIQrSVJEsrmYbenKMl6ZHFVVvGOBkKSqmTZMZEIJdRw4zr_TvlKByVpK5IZ8f1Tb3Lg"
+            },
+            "geometry": {"type": "Point", "coordinates": [-155.257324, 19.429403, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Hot Springs National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Hot Springs in the Middle of Town People have used the hot springs here for more than two hundred years to treat illnesses and to relax. Both rich and poor came for the baths, and a town built up around the Hot Springs Reservation to accommodate them. Together nicknamed \"The American Spa,” Hot Springs National Park today surrounds the north end of the city of Hot Springs, Arkansas.",
+                "website": "http://www.nps.gov/hosp/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHFHfP_jOU_pB-r0DqT60bldfPtzYWfh-1Sq24QajSo_qNkw8WBpSPIZM76dCQF_gYbygSE-u4vij__Xnh7wMgoCmIcmVd0jE26Es1zL9LZJIapDOaEHGXkebhcKKk7H6aYog4DcSIvfd7Svzch0ExRoQJgclpULViXQ03Y_XItwRR9l_7agADC7XWzamgHSNpA24ss9ADYwujSsj11vfoXnLl22jjRT9jfayzFu-M2P9DHb3i6XvVObuze200KjpYCQo2W6GYH6Os8TJ5Y"
+            },
+            "geometry": {"type": "Point", "coordinates": [-93.053427, 34.513735, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Indiana Dunes National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": null,
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-87.063556, 41.658621, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Isle Royale National Park",
+                "dog_friendliness": "Pets not allowed",
+                "description": "A Superior WildernessIsle Royale’s physical isolation and primitive wilderness challenged human use for centuries; ironically today it has become the Island’s main attraction. Accessible only by boat or seaplane, visitors come to experience this island park through hiking its trails, paddling its inland waterways, exploring its rugged coast, or venturing into the depth of its shipwrecks.",
+                "website": "http://www.nps.gov/isro/index.htm",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGDMoKv19_J8c8efgQgOdUXh2tOnYBdRr5u88KJSbUGFclzhWs_QfJYI9a-tPk_X5Vtqei2pjh3NpFS5FZIpYkR-80qvGVpCml473EcuNIotHntHiwo-7IbWTs5Cgr9IhUcY1goXrPqwwItJxboURjUSiCjsK08Z0VvWL5q3yVM1zYNo_4tOzv0wadT4zUD-Y2EMg3gmGnkgszBBsBKjwxh62km0kADgISg2VVAGLo_wIOsHdjhqJPa6Z7xhGCb23fOOpmQHiR3bhqKxL_yeVgCuw"
+            },
+            "geometry": {"type": "Point", "coordinates": [-89.157851, 47.91163, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Joshua Tree National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "A Desert ParkViewed from the road, this desert park only hints at its vitality. Closer examination reveals a fascinating variety of plants and animals that make their home in this land shaped by strong winds, unpredictable torrents of rain, and climatic extremes. Dark night skies, a rich cultural history, and surreal geologic features add to the attraction of this place. Come see for yourself!",
+                "website": "http://www.nps.gov/jotr/",
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-115.819808, 33.747345, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Katmai National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Katmai National Park & Preserve Katmai National Monument was created in 1918 to preserve the famed Valley of Ten Thousand Smokes, a spectacular forty square mile, 100 to 700 foot deep ash flow deposited by Novarupta Volcano. A National Park & Preserve since 1980, today Katmai is still famous for volcanoes, but also for brown bears, pristine waterways with abundant fish, remote wilderness, and a rugged coastline.",
+                "website": "http://www.nps.gov/katm/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uE9QlUWrL6Ud8AytVUBRIX_uZ5zlgIPRfdMGd976CudXdR5wlIGwEAP6BCdryUPBAtKzX865xumEI3xg4msnNb93N4wjlSJLpHbsBhevxeqYPm4VJJlS3Nvlkpe9SemUSIyW6p76MFU8LXpWpf_CutCD_e105ZTM-mDAo7q5OZxXXaiVoOgC5FjqolOa4KEbzFegjnbcYvEftZlInwDvDqhulIrPR-GKX3RzKkX3twwuvyubp_quKzZgQGBCk6xVFkQaslRqTsiqNnc4db-UHcwfFh85smp2TSqIBMzzvq8DtQKr8Jv"
+            },
+            "geometry": {"type": "Point", "coordinates": [-155.779095, 58.551688, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kenai Fjords National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Kenai Fjords National Park At the tip of the Kenai Peninsula lies a land where the ice age still lingers. In Kenai Fjords, glaciers, earthquakes, and ocean storms are the architects. Ice worms, bears and whales make their home in this land of constant change. Native Alutiiq used these resources to nurture a life entwined with the sea. Explore this site to discover Kenai Fjords, its history, science and remote splendor.",
+                "website": "http://www.nps.gov/kefj/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uH8LwBlCbm7IQzvvvZhe6Nv1kaaLjAWdas0D9CKaX-7Gng3ipvfLX8j_wYP1mXJkN_9UewM7z9VPdNrMxDnNP6dtR7m4BBSnOxSdJO2hFyqe_cTd0kSrKewkEL1oH8ftha-uIsoHKE9syifwo8CJ4Tlo7DtueLOeml8NPWX9cJkpp55f-skoxVADCo_fC8DMn-IfpKMAGqfVwU15bKQ18dgM3K3VwLK-7tvWvSKwjtgf9FDEnBI4L46pZqzeJv-GUODBSEToleTpY-OHnS10cdJuw"
+            },
+            "geometry": {"type": "Point", "coordinates": [-149.434898, 60.105206, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kings Canyon National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "A LAND OF GIANTSThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!The parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate  below).",
+                "website": "http://www.nps.gov/seki/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uF56Xs_afHyaHXIujzhn637oZ_QfHNsP8EspU9mhuZUseL_dRNPCZ-I23rZnkhtRF01u9bt7LLpI1TE4TwW1IhPG9p-16M_fDTcH-soSLoBfzuRbzu2yrty2-IZeAee1DR7Wlo26lI6Iv7wFYdZNODmGjzrY0PGxuSWWPo9cZuddhb7K-43ALexpneDfmuiQR4FAZ5kMRYQnZr8S1AIP5bnsJw5IhEUC288Dnt49q6uzUAnvtNCcCQ0FuknVqNG1JNUYbuyEDDaLY7_k2SoVLl4SPpR"
+            },
+            "geometry": {"type": "Point", "coordinates": [-118.668737, 36.79212, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Kobuk Valley National Park",
+                "dog_friendliness": "Pets not allowed",
+                "description": "Wilderness Adventure Caribou, sand dunes, the Kobuk River, Onion Portage - just some of the facets of Kobuk Valley National Park. Half a million caribou migrate through, their tracks crisscrossing sculpted dunes. The Kobuk River is an ancient and current path for people and wildlife. For 9000 years, people came to Onion Portage to harvest caribou as they swam the river. Even today, that rich tradition continues.",
+                "website": "http://www.nps.gov/kova/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGMLzXr_UwkOChZWdU17Q4twJB9A4M8GMR43GwB21uUvxf9VoiGCeOwgdzmfkDQYuSGRj6rhbM5r9C0Ae020vP3xmeZ0Yw7HnsMpB1oT0_2-he9lVchPG8oAEZ_YCI2yHOTmP2jLO75MTgy9P_PWN0arskkCYfTrmDzWlch9SQQkUjuGGe2HY8iEu7kg_KbpSVTE8X6LGfu2v7XyzwPHtsP1yrbwM4NLkKelY72p_Gxmz4ielqLOCZLLd-iEpxEwyVkXB-Yaa4"
+            },
+            "geometry": {"type": "Point", "coordinates": [-159.06301, 67.39137, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lake Clark National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Lake Clark National Park and Preserve Lake Clark National Park and Preserve was created to protect scenic beauty (volcanoes, glaciers, wild rivers and waterfalls), populations of fish and wildlife, watersheds essential for red salmon, and the traditional lifestyle of local residents.Lake Clark's spectacular scenery provides a true wilderness experience for those who visit.",
+                "website": "http://www.nps.gov/lacl/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEHN5h6RWBJgEdcvrZIeNrRPeJdyiAxrN0S22sTiQAFOBTLAb4Isafk0PDiQ--GqE_CLi1xY20WiP0ELc0KOHOfBG8KioCQQ0AX8Rx039x3gToo8uEatQb92RMr3CAkZJdTnSwtxU8NgsIS7YmOxkR_oxzZ_ju9YNROPTHvuMNXGtxF5sP_RzVFN1sFr7Byzsg8FUiczxN1XQ-KeUYJupTVHDGAwPl9AQw4znPUjpDRCEg4IuRsLjMLx-kfU20zboi86OVtIi1I_saELNNbIJXZviMqtXNA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-154.321003, 60.200805, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Lassen Volcanic National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Lassen Volcanic National ParkTo visit Lassen Volcanic National Park is to witness a brief moment in the ancient battle between the earth shaping forces of creation and destruction in Northern California. Nestled within Lassen’s peaceful forests and untouched wilderness, hissing fumaroles and boiling mud pots still shape and change the land, evidence of Lassen’s long fiery and active past.",
+                "website": "http://www.nps.gov/lavo/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGtKZy57ho0GMMbZNG-pjTJsRW_EmySdD3gV3917E3AHt6wfIS6EzbABB47gbEYaU80QNBPG5s9U-FEFHmvm8wtc52wOsmLTIP2_WDbx7R3L3DyLm5LsVUkt7GBsqXaKAtLh4JmTJ5ae4quaNWbqgFCXqQUNkniBDl6gs2DhI9E2Fj2YbEk1-U6LmrWEV8pJm5nI531I3tnfspwJz4t4cpaXpiCVaPBqAbyAX1f7x3wRXpEa9kFinwZikYuN8x8bsNut7kGHTQQNaSuR2alSQYa_t47uDRH9dwQhPE"
+            },
+            "geometry": {"type": "Point", "coordinates": [-121.534259, 40.4375, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mammoth Cave National Park",
+                "dog_friendliness": "Pets not allowed",
+                "description": "A Grand, Gloomy and Peculiar PlaceMammoth Cave National Park preserves the cave system and a part of the Green River valley and hilly country of south central Kentucky. This is the world's longest cave system, with more than 365 miles explored. Early guide Stephen Bishop called the cave a \"grand, gloomy and peculiar place,\" but its vast chambers and complex labyrinths have earned its name: Mammoth.",
+                "website": "http://www.nps.gov/maca/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGi7AETrXH7HXOGD7xJ_5niedPYg2LAFQdZa74XHv3B_0SNWJDW1uPbOswbJ7raoLJVoYwtKW3FXVXqDsVQ8Zwd4A-18EM0nfO3aWpMbrW2q2oJDkyOYY3cz2fgxsCzIZrwGOutbnEPEm0HJ22dHdgP_cIN9Zy6x0JxOl_87uTlUVtWMAjWLB4oJncujewHtx7BO_-Af8XWrpLobF2ebe_MAljKoZ7nftCymdhTvpnEiBUF2lNSKD7zKK9MpwZzN4jv4WPLuXJ0QQZ7EME2M6LF3BSytRYwC-47xYm-hV0"
+            },
+            "geometry": {"type": "Point", "coordinates": [-86.100197, 37.186579, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mesa Verde National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Mesa Verde National ParkMesa Verde, Spanish for green table, offers a spectacular look into the lives of the Ancestral Pueblo people who made it their home for over 700 years, from A.D. 600 to A.D. 1300. Today, the park protects over 4,000 known archeological sites, including 600 cliff dwellings. These sites are some of the most notable and best preserved in the United States.",
+                "website": "http://www.nps.gov/meve/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFAk7dwWCYCwCVSqqELg47SWsTzmfWcxxZPRduZU9nBSgl31hFQmN_dnQ0ydEsxc0Aa2yRaWs38wt0HXR15PvniAgrXWpCmGmji1jRpzrHLwxJAVmHzho8gQnhKWy8TvfgbyFVigUe8XJqdJuU-aLKmE9ehjZU9TiIaSsCL96YX1nF7rgcx4hnVzztLV6dg8cAkFTKHaaM7Pd5DXYH30tMwDPOXTBPozBqq4SMyVFlkd1DgWMO5UrcHFbmP9SgLp-DBVYYhxdsA_jyMKf5pQJ5sWHAMKgA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-108.498058, 37.257975, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Mount Rainier National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Mount Rainier National Park A Source of InspirationLearn about glaciers. Discover life in a rainforest. Hike the Wonderland Trail. Explore subalpine ecology. Watch clouds shroud the mountain and disappear. Visit a rustic historic building. Dream about climbing to the summit. Study geology. Experience a mountain meadow. Listen to a glacier crack. Observe the wildlife...and wonder!",
+                "website": "http://www.nps.gov/mora/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFyXu9dBSDxECWhtSHtLN6MGVFb_ndMxyPTTDCPGZKRL7ZJYiIbJn7yK8-rwdpirk6M92kXcm0fqgC959MsKbYFV0eWn9m6s3wh4dBUbWAPczeJTUTZifib7RX-vYXNtS8_olCGA915o42BvwOdrmlK9gEb4k6IVY2Gs22uPrG37pZNwhzWMG47-ERx4EFTgu7ou9jYcaJDy4OM4FRff1z-2tSN6qshGGhpCtHulkeFHzWU4-Fh0aitk1ZwfWua67Udh1iQ_w4vIGdlUQ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-121.739695, 46.784134, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "National Park of American Samoa",
+                "dog_friendliness": "Pets not allowed",
+                "description": "American SamoaSamoa, a chain of mountainous islands clothed in tropical rainforest, is ringed with rugged cliffs, glistening beaches, and biologically rich coral reefs. The Samoan village leaders and the U.S. Congress have set aside the finest samples of the islands' land and seascapes as a national park. ",
+                "website": "http://www.nps.gov/npsa/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGB2ZRCqWeJICxlO0i4QmVR_6FcLMgwYyyXbSoHogQVgtgMnzRd5a1yUyUX0mNC6DZ8JPNht0ISIH_4I7y6ZoOXCyzHm7TrutBNi6AS-qNFuoANTh5MsNYlcDdu-huj8Yd-Pyx_SXnOialPU2_x_Drl7qLG48_d5oh_ywV4ZIpAqt79TjOpKZrU3XfcJNYzKkwipRGq-_yWCsqxv9L5KijEHNP2kOpDRN3FVsU4ZOY-vnruBCwXmqYQLn5rkpYPzVh8SMzLNZ5zxe-UyA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-170.700897, -14.27933, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "North Cascades National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "North Cascades National Park Service ComplexJagged peaks, deep valleys, cascading waterfalls and over 300 glaciers adorn the North Cascades National Park Service Complex. Three park units in this mountainous region are managed as one and include North Cascades National Park, Ross Lake, and Lake Chelan National Recreation Areas. These complementary protected lands are united by a contiguous overlay of Stephen Mather Wilderness. ",
+                "website": "http://www.nps.gov/noca/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFWBSzBurIVfk1D9f-pmxVc6UYzXdR33CzabKC7wpQ3ddjJmzPQJuS56vfo388HaRqMS3G0lCvreITXqPGudD3nQH8HghoOjNkq8FLD-NCh1pCDNNb-gfjemG3jXWlxM-eQ4EQB07anX0dMMvLZB3vpBtbwCxkIR2nzGOggI1A0w005IpMDnz-nuDA5-B0SrXP5y_hd2ZCsQtg8GbHiTZ7yiJ5HSltDBRhwyXaMP1HACGpvRlBQ-wTvvK2FCqwjMPxOY_7SO_5sUucTihdXSy_RkagxV15llzo7jsb4wqPHpjJQ2b03"
+            },
+            "geometry": {"type": "Point", "coordinates": [-121.264257, 48.666212, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Olympic National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "A Land of Contrasts and VarietyHere you will find Pacific Ocean beaches, rain forest valleys, glacier-capped peaks and a stunning variety of plants and animals. Roads provide access to the outer edges of the park, but the heart of Olympic is wilderness; a primeval sanctuary for humans and wild creatures alike.",
+                "website": "http://www.nps.gov/olym/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uEfpwQt3Bhjg_cTwMxVgyNMwH48-azG0j9SZw_NgUirIuZExK-olp0navzTEkBa0ooYwXTq2_Zjre9GkgJL0bDqFEwxkUYTnxMhtJB9hVIpSt2s4MsuAc0fGdQBzbvZSN7xLsBSi6oXkIaXoevLgkYfZlv_vQVINt2ZAiTit6iTTVXL5bjEzeFPWM1eesP5iaWjqL-CKSSCd_F-VV7BKiN9ENlWpoyHQWJd6ih6z-0v1B54fZwyiL37X7hDzW4X9ud0jzuFfA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-123.431139, 48.100675, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Petrified Forest National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Petrified Forest National ParkWith one of the world's largest and most colorful concentrations of petrified wood, multi-hued badlands of the Painted Desert, historic structures, archeological sites, and displays of 225 million year old fossils, this is a surprising land of scenic wonders and fascinating science.",
+                "website": "http://www.nps.gov/pefo/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHUnR4OmQ9epGDihwyaigTN-05suLDZuCB0Icb3evyhHD5-0aS6Hc9yvN54VJ-vaxa-uDjY6xjSBiNkzet8QV_aPqkElLEAwJRcpAcoWEzsIvvJwl5e5PhDNsxYuX3Jo_wns1yQogI8yO1hLyzG0qaUcrO2QDGFNl2-5sfegjzSX6-mYONgubfZ1B-iO3aW_0sBlhiuVFZLGiSAfk4iKRpKhzWd4QaPKu_CmpbXAN7JmJRAtcBbGnoGr44ZmOMsoYar458ivq4RY5c08BeM"
+            },
+            "geometry": {"type": "Point", "coordinates": [-109.782477, 35.066259, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Pinnacles National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "An Ancient Volcanic FieldRising out of the chaparral-covered Gabilan Mountains, east of central California's Salinas Valley, are the spectacular remains of an ancient volcanic field.  Massive monoliths, spires, sheer-walled canyons and talus passages define millions of years of erosion, faulting and tectonic plate movement.",
+                "website": "http://www.nps.gov/pinn",
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-121.147037, 36.493798, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Redwood National Park",
+                "dog_friendliness": "Pets not allowed",
+                "description": "More Than RedwoodsStand at the base of a coast redwood and the huckleberry bushes tower over you. Watch statuette Roosevelt elk grazing in the prairies. Observe the tail of a female Chinook salmon heave skyward as she makes a nest for her eggs. Whether a morning or night person, you can hear theendangered (",
+                "website": "http://www.nps.gov/redw/index.htm#CP_JUMP_12796) marbled murrelets' keer across the treetops as they fly from sea to mossy nest.http://www.nps.gov/redw/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHRww8aMRvItMOFy3YjMDBVxgqYx2SsAgLVHdLrMDyrZLSJHo0VEH04i_wTfTX2IM_GwMo8EmXgM5HIWCALIHm1UIvOudAhi3UVZfiNF6AoAo_6npemUqBaW9gwib8KdSq8vCh1I5NKu0E2lHdTvuFS5duZItASLh7CFLNotfgdf54DKGkOwg5URFzaJw2ZUP8j1fQjXtwoDt6EhkAWzFR0JWwGPfyVb-flHyh3M8Ixv2l4I7IaBNZk90rNyOEtunQxYrWeiuQkay4"
+            },
+            "geometry": {"type": "Point", "coordinates": [-124.090061, 41.285708, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Rocky Mountain National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "From lush valleys to craggy peaksThis living showcase of the grandeur of the Rocky Mountains, with elevations ranging from 8,000 feet in the wet, grassy valleys to 14,259 feet at the weather-ravaged top of Longs Peak, provides visitors with opportunities for countless breathtaking experiences and adventures. ",
+                "website": "http://www.nps.gov/romo/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGD3xsB7XvS80C2jiN4GYmYIpa_8Pjg0TzpBzj0ADyR0WyjaSO9ttzBHSAbA-nmYDrrd1o4YG8JTT4c0ipuvakeopdHXAYEcj8UQalm1GdnIXgI8RLP8qEIUc4YaqL1m9xckLWARbHWVaNaI1MeAzufhWaoKSuU45ExAR0Xf_qn5KHtpYaRlCmqmjfZLlvjFtnDURMw4on8cRDV_XqznnH3uNGO-7p4yVjbtF1iYWQ2Bjg2KRWYeED0iZuC8ryAmOzkPPCRkrwm3HgQkWRJIm9HSpY"
+            },
+            "geometry": {"type": "Point", "coordinates": [-105.560801, 40.366395, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Saguaro National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Welcome to Saguaro National ParkEnormous cacti, silhouetted by the setting sun, for most of us the Giant Saguaro is the universal symbol of the American West. And yet, these majestic plants are only found in a small portion of the United States. Saguaro National Park protects some of the most impressive forests of these sub-tropical giants, on the edge of the modern City of Tucson.",
+                "website": "http://www.nps.gov/sagu/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uETBLeDapeiQMzmjsILCXyfccMbySkZqzGVAmU5P7_YXZ-SqKj_q9T9qE-W2dqF0qDsaRxyVPhz9WCjZNjd-onkg14Lx-hWk3wIZUxOPKj6SoO--rOFYLDkQGddytut9bGyTGl8nmDqwMcvPKKW_ztpkAmwaVPQoXxd31TPIaYTSgZC24OUO264qDGOKbFG6oG3eXxsfM0vvzJ4-YnFzmvUiBuAUJ1aiysUBqudO_8PEs1v_H5bpOsY_xZLLxUHjIv6dMTFMi1sgD0"
+            },
+            "geometry": {"type": "Point", "coordinates": [-111.197017, 32.253575, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Sequoia National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "A LAND OF GIANTSThese two parks testify to nature's size, beauty, and diversity: Immense mountains, rugged foothills, deep canyons, vast caverns, and the world’s largest trees!The parks lie in the southern Sierra Nevada, east of the San Joaquin Valley. Activities vary greatly by season and elevation - which ranges from 1300' to 14,494' (see Climate  below).",
+                "website": "http://www.nps.gov/seki/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uF56Xs_afHyaHXIujzhn637oZ_QfHNsP8EspU9mhuZUseL_dRNPCZ-I23rZnkhtRF01u9bt7LLpI1TE4TwW1IhPG9p-16M_fDTcH-soSLoBfzuRbzu2yrty2-IZeAee1DR7Wlo26lI6Iv7wFYdZNODmGjzrY0PGxuSWWPo9cZuddhb7K-43ALexpneDfmuiQR4FAZ5kMRYQnZr8S1AIP5bnsJw5IhEUC288Dnt49q6uzUAnvtNCcCQ0FuknVqNG1JNUYbuyEDDaLY7_k2SoVLl4SPpR"
+            },
+            "geometry": {"type": "Point", "coordinates": [-118.734226, 36.604401, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Shenandoah National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Shenandoah, a wilderness oasis in the busy east . . . Gazing across the horizon from the peaks of Shenandoah National Park it’s hard to believe you are just 75 miles from the bustle of our nation’s capital. Take Skyline Drive along the crest of the mountains through the woods and past spectacular vistas. Hike in the shade of oak trees along the Appalachian Trail, discover the stories from Shenandoah’s past, or just relax in the wonder of wilderness.",
+                "website": "http://www.nps.gov/shen/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHGIgpJWTKX5zbCTZ6dRYXnpK6-SLyWJnZsHkY1KIhsdmVM2fLelkmBi9MKHLsndwgQGNCwyrcDgq9bd50503y2it1NiDgVs8pu2LT0mhvptKR4DhukM85cgu-jgNW4cwd91-2u-XAfq99Vb6B6zKzRd-m3bO9nZs_o_0hxsIVK5oQS5x1fpzw7l7yy8uH9pXQPLlahLIETtyEfZ1V3hmQ7b90dYVYccpQ_fqwgSzatAju6FC0Cn5XoyC2EFAQ000ol5ORABc8u98NpJ941obIDKCw-IYH0FQ"
+            },
+            "geometry": {"type": "Point", "coordinates": [-78.204632, 38.871523, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Theodore Roosevelt National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Theodore Roosevelt National ParkTheodore Roosevelt first came to the badlands in September 1883 on a hunting trip. While here he became interested in the cattle business and invested in the Maltese Cross Ranch. He returned the next year and established the Elkhorn Ranch. Years later he stated several times, \"I never would have been President if it had not been for my experiences in North Dakota.\" ",
+                "website": "http://www.nps.gov/thro/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHUQHA5ykYpZ2INi9OMvP2KdQ7Fwgtuz3ov1quwgOZA1OMzTDkZ8Xh9ydTtipXdVmO3talcm1yw7b--tQRaO5tkod-HOl470NxhlZZcr9YOMY2rgLpPInRQEzds16aIHVnZ1rDGIPr4adroR6oWah5qoN8C-pxTO0_MwKAgspkh3bnPoB9EypjrbuBWY0QeL37IeLbpujpXs0PxU8ADeEpWdzC9WFgWvJolz-pr8saqSRtX_8fTwd7b11O8XjA3PBqDn6EUjkv9lgyNd-SJF9QGsACvK7IQfCUFJl5ESOf-"
+            },
+            "geometry": {"type": "Point", "coordinates": [-103.525393, 46.916562, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Virgin Islands National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "American Paradise Virgin Islands National Park’s hills, valleys and beaches are breath-taking. However, within its 7,000 plus acres on the island of St. John is the complex history of civilizations - both free and enslaved - dating back more than a thousand years, all who utilized the land and the sea for survival.",
+                "website": "http://www.nps.gov/viis/",
+                "image": null
+            },
+            "geometry": {"type": "Point", "coordinates": [-64.793758, 18.331877, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Voyageurs National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Explore the Lakes of the North WoodsNearly 200 years ago voyageurs paddled birch bark canoes full of animal pelts and trade goods through this area on their way to Lake Athabaska, Canada.Today, people explore the park by houseboat, motorboat, canoe and kayak.Voyageurs is a water-based park where you must leave your car and take to the water to fully experience the lakes, islands and shorelines of the park.",
+                "website": "http://www.nps.gov/voya/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uERwVc9dV8WTxmmUh1qpN1StNkzdGMtiSbfaFqxt5MIHLsbuddQMaHnH6emT5ZQ_X3PfSum4fdwao1Yq-ZjPY26fc4llE57rzTlGDMhmVCuErle6zZMpNXteEvT_ScFgFeXZkfT-fwMSzNPHl9pql-qpjbhJStZyZQzYiA3L3vFzHa7ig35d0sxC4OuE_YhmLtlXUG18LAatyoNabgQ-8Lhd2Lzk2XvWltkICg2BtjqeMcEPbbRE_mvEeAn9KIIK6SsAB9jLQCdN9k-mghFbPTP9Pg1pIeRYw"
+            },
+            "geometry": {"type": "Point", "coordinates": [-92.850373, 48.43481, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wind Cave National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Wind Cave National ParkOne of the world's longest and most complex caves and 28,295 acres of mixed-grass prairie, ponderosa pine forest, and associated wildlife are the main features of the park. The cave is well known for its outstanding display of boxwork, an unusual cave formation composed of thin calcite fins resembling honeycombs. The park's mixed-grass prairie is one of the few remaining and is home to native wildlife such as bison, elk, pronghorn, mule deer, coyotes, and prairie dogs.",
+                "website": "http://www.nps.gov/wica/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uE78OWkSIDx2W49-56js1q2n_CpFz2BlyRrGjElRtOuwxOHkGXMoaGcWuui1VsimUeTfp5y4x6yGYtTSrNUGSW4ILScOrtH3HwaDCqhS9LT5IoH2EpvnZsgTV-dfZLYBBzDNbYWmEg0Ja_9fxR_areXj5P8t-v_eHPGB5E_hsSuq0HlkyJ1mZVQKvPHuGsSX0IWMOhhoCL-x37TkjgmiBe5GFU9G6rCrlyq73neqXB9mJz2rxrq80NfOizGnEIwiGk-1ESsV1ivHxQB8zE1dyJbvVg0py4"
+            },
+            "geometry": {"type": "Point", "coordinates": [-103.478529, 43.556056, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Wrangell-St Elias National Park",
+                "dog_friendliness": "Pets allowed (almost) everywhere",
+                "description": "Wrangell-St. Elias National Park & PreserveThe Chugach, Wrangell, and Saint Elias ranges converge here in what is often referred to as the \"mountain kingdom of North America.\" The largest unit of the National Park System, this spectacular wilderness includes the continent's largest assemblage of glaciers, and greatest collection of peaks above 16,000 feet, including 18,008’ Mount St. Elias, the second highest peak in the United States.",
+                "website": "http://www.nps.gov/wrst/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uF_DJwI6Nyb-xDx288pwXp44Lv8yIAhqyq_cNQje1c6e-hBfeFNafy8H62_Gf6pWnviqzRrxz08y5o9VR01Le4XpmCJo6zwScUHUecHNzVXSW8-zMytlIP2nUAyVzFsSsWDCiMXnaxY-aZFlaGZUvjAleRiLGwabsxTdKgiXaZclGG6pGWty-1Rai9Smhi9YaaSckeK3POV7DGWj0BduwV-KsMs48uaHQzqcraFe_lyKS3PioN7uAILvaOVUbooFfPbDlj6nackVhTFKW5ioeTTovELQJBWSRCOHMPF10v3cdserDdVwDPjViyZMyM_mdNvKBODCwivSr7b7eaDrsicP_RRoNut"
+            },
+            "geometry": {"type": "Point", "coordinates": [-142.24266, 61.20794, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yellowstone National Park",
+                "dog_friendliness": "Pets allowed where cars can go",
+                "description": "Welcome to Yellowstone National Park!Established in 1872, Yellowstone National Park is America's first national park. Located in Wyoming, Montana, and Idaho, it is home to a large variety of wildlife including grizzly bears, wolves, bison, and elk. Preserved within Yellowstone National Park are Old Faithful and a collection of the world's most extraordinary geysers and hot springs, and the Grand Canyon of the Yellowstone.",
+                "website": "http://www.nps.gov/yell/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uGjMETNao84CPpb6hwZRRIdkKl-KOIrbcGy8mgm-xZTE0UqHhBHYtmQTUcCQE1fVJRA5Xkr20GLtokg4NdM5rqVx3OVJ92IsK2gAhRsEhB7wDEhm2E8YAojK7B1rHuHmUvd5DLEKRB5lpnDhk9T0illyBd9URfz29VeE8f-Tpof5hLW3-nPWACm3IVLKVJtQJniU7pvMnuogBvZQj9beKtt3a3hBvjCww2CLb467mmyQx5k5wq3C0OGpvwc8wmJJsddxXg85M8yzjn0kA"
+            },
+            "geometry": {"type": "Point", "coordinates": [-110.55733, 44.392963, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Yosemite National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Not just a great Valley...but a shrine to human foresight, strength of granite, power of glaciers, the persistence of life, and the tranquility of the High Sierra.Yosemite National Park, one of the first wilderness parks in the United States, is best known for its waterfalls, but within its nearly 1,200 square miles, you can find deep valleys, grand meadows, ancient giant sequoias, a vast wilderness area, and much more.",
+                "website": "http://www.nps.gov/yose/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uHcznpzH7VHt8-HzkJo2aYToveyZfMuksjxfEMwNQz0OfvgtCjlNEuJuKNktvgUsIGEsc4MX9KHoNq8NgJiM1XJFKhbYGCvugxWDetB-X_ZkQRfdQWatfmu_CxedL4ZsBXBU_1lYjQpuReB8ZC1mj_qSKhsFk_Z6YJAYDZuMi6kXcIhh7mtntkrBKxeUZG8clvz6WJjtD0l8-xIbkT09xripFAa0NjzRqWiC42A-bs96nSgo9eTpwlbp4h4z-NDjIomtWG6xSHx"
+            },
+            "geometry": {"type": "Point", "coordinates": [-119.590774, 37.746557, 0.0]}
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Name": "Zion National Park",
+                "dog_friendliness": "Pets allowed on one or more trails",
+                "description": "Utah's First National ParkMassive canyon walls ascend toward a brilliant blue sky. To experience Zion, you need to walk among the towering cliffs, or challenge your courage in a small narrow canyon. These unique sandstone cliffs range in color from cream, to pink, to red. They could be described as sand castles crowning desert canyons.",
+                "website": "http://www.nps.gov/zion/",
+                "image": "https://lh3.googleusercontent.com/umsh/AK-S7uFIXhz_NYNAaDhVeoRvzhxDvZXzQDz-lTUfTfyiZFXA9bSVM1TDB81XjcW6DLKmUqugvo2njqiWakbJo0h-04cZoNmZdIOe_4Sk_oMpwPpwU4eH9I3SOVEB6fL63pXMfiZEsfdbKTZXzbzpSnqOcRmOpH7eXlWUCHOfwKIUmvE1TfcKn-55ZMTVQuHjZz_tAqQyE-C9Qf5rD5egDq5AycUwJAlDKUyNyLzSeIf7Cyt3rmaTBajiaJmI4NPSOwKINfjPjE2SXwgazP-lY3YL9D8zFaVzJQtZqjDwG5g"
+            },
+            "geometry": {"type": "Point", "coordinates": [-112.979493, 37.209533, 0.0]}
+        }
+    ]
+}
